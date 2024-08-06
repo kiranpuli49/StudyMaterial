@@ -1,0 +1,117 @@
+Marketing cloud:
+
+Salesforce Marketing, marketers have endless possibilities to understand the customers and offer them what they want. 
+
+The platform allows:
+
+Customer engagement in real-time
+Email and Marketing Automation
+Social Media Engagement
+Mobile (SMS) Messaging
+Customer Marketing Analytics
+
+***********************************************************************************************************************************
+Journey Builder:
+
+Journey Builder is the visual mapping solution of Marketing Cloud.  
+it allows marketers to design and automate multi-step, multi-channel marketing campaigns.
+
+Drag-and-Drop Interface: Easy to use with a visual interface that allows you to create
+complex customer journeys by dragging and dropping elements.
+
+Multi-Channel Campaigns: Supports various channels including email, SMS, push notifications,
+advertising, and social media.
+
+Dynamic Audiences: Automatically update and adjust customer segments based on their behaviour's and attributes.
+
+Triggers and Events: Journeys can be triggered by customer actions (like website visits, email opens, purchases) 
+or external events (like anniversaries, product launches).
+
+************************************************************************************************************************************************
+
+Contact Builder:
+
+Manage data about contacts
+It gives access to demographic and behavioral information, organized into ‘attribute groups’ (eg. abandoned carts), ‘events’.
+
+
+Content Creation:
+
+Drag-and-Drop Editor: Create emails, landing pages, and other content with a simple drag-and-drop interface, making it easy for users of all skill levels.
+
+Templates: Use pre-built templates to quickly design professional-looking content or create your own custom templates.
+
+Centralized Repository: Store and organize all your digital assets (images, videos, documents) in one place.
+
+Dynamic Content: Customize content for different audience segments based on their behaviors, preferences, and attributes.
+
+*****************************************************************************************************************************************************
+
+Automation Studio:
+
+Marketing Cloud that enables marketers to automate a wide range of marketing tasks and processes.
+
+
+Create complex automation workflows using a visual, drag-and-drop interface that simplifies the design process.
+
+Data Extracts: Automate the extraction of data from Salesforce Marketing Cloud for use in other systems or for reporting purposes.
+
+Data Imports: Schedule and automate the import of data into Salesforce Marketing Cloud from external sources.
+
+SQL Queries: Automate SQL queries to manipulate and retrieve data from your data extensions.
+
+Data Filters: Use data filters to segment your audience based on specific criteria and automate the process of creating these segments.
+
+Triggered Sends: Automate the sending of emails, SMS, or push notifications based on specific triggers such as customer behaviors or events.
+
+Journey Activation: Integrate with Journey Builder to trigger journeys based on automated processes.
+
+
+
+****************************************************************************************************************************************************
+
+Email Studio:
+
+Email Studio is a core component of Salesforce Marketing Cloud designed to help marketers create, send, 
+and track highly personalized and targeted email campaigns.
+
+Subscriber Management: Manage subscriber lists, including adding, removing, and updating subscriber information.
+
+Data Extensions: Use data extensions to store and manage additional data about your subscribers for more targeted email campaigns.
+
+A/B Testing: Test different versions of your emails to see which one performs better and optimize your campaigns accordingly.
+
+
+
+
+******************************************************************************************************************************
+Mobile Studio:
+
+
+
+
+
+****************************************************************************************************************************************************
+
+Google Analytics 360: connects Google Analytics Sales Cloud and Marketing Cloud. Google Analytics 
+opens up richer engagement and audience data; when combined with Salesforce 
+
+************************************************************************************************************************************************************
+Supression List:
+
+manage email addresses that should not receive specific email communications. 
+This list helps maintain the integrity of your email campaigns, comply with legal regulations, and respect recipient preferences.
+
+
+Global and Publication-Specific Lists:
+
+Global Suppression List: Excludes email addresses from all email communications across your account.
+Publication List Suppression: Excludes email addresses from specific publication lists or types of communications.
+
+
+
+
+Delete contact :
+
+Unsubcribe:
+

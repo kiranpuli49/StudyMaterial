@@ -1,0 +1,61 @@
+provide better customer experience & helps improve Business outcomes
+
+example: sales team generate lot of data about the customers which customer is interested in which product, customer interaction, cutomer information ,which products delivered & many more following up orders, or contacting about some issues.
+
+without this crm if noted in books, laptops might be missing or lost the data or she might forget the status ...leads many blunders.
+
+
+we can see all this data in CRM single tool.
+
+sales cloud conatins account and contact managament which comple view of customers like key activoties, customer communication, key contacts
+
+and find possible leads which means you can concentrate on customers who more likely to buy your products.
+
+
+
+sales cloud feature:
+
+1.contact Management: By giving access to all critical data of the customers and interaction history you get complete picture of all your customer.
+
+2.Leads:they are Potential customer and also write and track emails from the crm solutions.that leads to set proper leads to particular salesperson
+
+3.Mobility: Making conference calls taking meeting notes and collaborating with your team memebrs. sharing files from anywhere.
+
+4.reports and dashbords:visula resp who bsuiness performning in market
+
+5.AI integrated :cloud analystic tools aggregate the  data different locations data main visaluize large volume of date in on place and genrate powerful insights
+
+its connect the urser to sales cloud nad community cloud with embeded with dashbords.
+
+
+sales cloud: is get in touch with customers and sell them products or close the deal &
+
+main focus will be on leads ,contacts and opportunities
+
+
+Task: duties to be carries out by the salesperson on parcticular date ..it can be something like calling a cutomer at a perticular time.
+
+
+calender:create a event example :customer wants to close the deal on particular deal. we can notify from 5min to 2 weeks before the meeting
+
+notes:while communicating with customer you can write it notes
+
+reports:display the data in the form of rows and columns
+
+groups:set of user if comapany has many sales team each team can creeate on group & communicate themselves.
+
+
+
+pricebook entry is junction object to product & price book
+
+oppronity line items junction object to oppronity & product
+
+one to many realationship in oppornity & quote 
+
+
+select name
+from table1
+where orderBy price
+limit 1 offset 1
+
+

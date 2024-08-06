@@ -1,0 +1,81 @@
+My name is KiranKumar , and I'm an experienced software tester. I have been in the software testing field
+for 3 years in capgemini technologies and have a strong understanding of both manual and automated testing techniques. 
+I have a proven track record of success in developing and executing test plans, finding and reporting bugs,
+and ensuring software quality. I'm comfortable working independently or as part of a team and
+I'm eager to learn new skills and technologies. I'm confident that my experience and
+skills make me an ideal candidate for this position.Thank you.
+
+
+
+Ashai++
+
+
+About Asahi+
+
+--->Asahi Bewarses drinks comapany head queartors in Tekyo that want explore globally
+This project will help create a green field Salesforce B2B
+Commerce cloud enabled by a multi-beverage strategy
+driving overall Asahi group B2B revenue.
+ they offers the water,soft drinks,beer, zero alchol, coffee. to delivery to 40k cafes & resturents  over the Austrial
+
+
+
+cretaed the user have multiple contacts:
+    they created to venue where they want delivery the products
+
+products able to add the card & procced with the payments & cloplated the order.... credits also available
+
+2. customer facing any problems we created the supports forms & live chat with Asahi agents as well... while creating cases case folder in the portal itself we can find the status each case which we raised the pervoius.....
+
+ Account page :
+Address Page 
+add to cart
+order page:
+Payment page:
+serach produc:
+Shipping Page:
+
+3. suppose if you want order alocholic products ... liquoir validation will be their on partticaur account....
+
+4. order managemnets & promotoins tab & cases managnents also...
+  A)) performed functional testing ,restesting , regresssiong testing, written the testcases.
+  B))cross browsing testing of application on various browser and  devices
+
+  C))for updating the Defects & connecting with dev.
+
+
+
+
+PLDT:
+
+
+1.Lead managaement  :Lead Capturing from Website 
+
+Redirection to Customer Community Guest access page when Customer clicks on the Product in PLDT Home Website’s branding page. 
+
+Tracking Customer’s Product of interest. 
+
+Displaying the Community Guest access page with respect to the Product that Customer has chosen/selected. 
+
+Lead Capturing Through Assisted Channels Lead capture by Tele Sales directly into Salesforce Portal. 
+ 
+2.Sales Management: about Sales different plans
+
+
+3.Campaign Management:Profiling of Abandon Leads such as Fallouts at Serviceability checking, Customer Info verification, Incomplete application, Validation Stage.  
+
+Campaign Creation to engage the Abandon Leads via Email & SMS 
+
+
+
+1.Marketing Cloud Administrator is able to create Marketing Users.
+2.Verify that EMAIL  1.1 is sent to Customer when Address is not Serviceable,Pending Customer Compliance,
+  Application Form/Lead Record Created,Address Not Serviceable.
+3. SMS as well.
+4.Verify that Lead can exit journey if email is opened by Customer (Documents Incomplete):: Lead status Updated.
+5.Verify that Email  is sent to segmented Customer with the correct  Template for Address not serviceable
+6.Verify that Email template is available when sending Thank you Email to the Customer containing the Survey link &
+  Customer able to open & complete survey & capture the Surevye Responses.
+7. Able to Run & Schedule the reports & dataroma & able to run reports (sales)
+8.Role Based testing.
+

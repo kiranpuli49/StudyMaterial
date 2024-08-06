@@ -1,0 +1,28 @@
+	1.Selenium refers to a suite of tools that are widely used in the testing community      when it comes to cross-browser testing. Selenium cannot automate desktop applications; its Automate web Applications.
+
+        Selenium IDE (Integrated Development Environment) is primarily a record/run      	tool. It is an Add-on or an extension available for both Firefox and Chrome 	that generates tests quickly through its functionality of record and 	playback.
+
+         Selenium RC (Remote Control), one must have good knowledge of at least one     	programming language. This tool allows you to develop responsive design 	tests in any scripting language of your choice. Server and client libraries 	are the two main components of Selenium RC.
+
+        ChromeOptions option = new ChromeOptions();
+	option.addArguments("incognito");
+	WebDriverManager.chromedriver().setup();
+	driver = new ChromeDriver(option);
+
+
+        actions.sendKeys("a");
+        actions.keyUp(Keys.CONTROL);
+        actions.build().perform();
+
+
+      j.executeScript("arguments[0].scrollIntoView(true)",
+w)
+
+    js.executeScript("arguments[0].setAttribute('value','Hello')",webelement);
+
+
+
+Page Factory is a class provided by Selenium WebDriver to support Page Object Design patterns. In Page Factory, testers use @FindBy annotation. The initElements method is used to initialize web elements.
+
+initElements(): initElements is a static method in Page Factory class. Using the initElements method, one can initialize all the web elements located by @FindBy annotation.
+        

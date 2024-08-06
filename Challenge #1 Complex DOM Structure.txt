@@ -1,0 +1,23 @@
+Challenge #1: Complex DOM Structure
+Salesforce has a complex Document Object Model, or DOM structure, in comparison to other applications. A DOM organizes all objects on a website into a type of data structure called a tree. This tree places every object in a hierarchy under another object. Because of this structure, inspecting web elements is not a simple process.
+
+
+Sync issues are one of the primary reasons for our automation script failure. The sync issues may arise when we expect some event to occur. 
+
+ Handling Dynamic Elements
+
+New websites developed using high technologies might have dynamic content that changes over time. Even the sites that are accessible globally might contain content based on geo-locations.
+For example, Amazon is an e-commerce application whose catalog changes overtime and reacts differently with different content in different regions. 
+
+
+Pop up and Alert Handling
+
+
+
+
+he COVID-19 pandemic, also known as the coronavirus pandemic, is a global pandemic of coronavirus disease 2019 (COVID-19) caused
+ by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2).
+
+Most people infected with the virus will experience mild to moderate respiratory illness and recover without requiring special treatment
+
+The virus can spread from an infected person’s mouth or nose in small liquid particles when they cough, sneeze, speak, sing or breathe
